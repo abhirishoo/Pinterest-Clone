@@ -24,10 +24,10 @@ This project is a Pinterest clone, allowing users to share and discover creative
 
 ## ScreenShots
 
--Sign IN
+-Sign In Page
 ![pin 1](https://github.com/abhirishoo/Pinterest-Clone/assets/101319292/d12441f9-c69f-470c-a062-68cc253229a7)
 
--Register
+-Register Page
 ![register](https://github.com/abhirishoo/Pinterest-Clone/assets/101319292/df61e271-c8b0-4a90-a032-789be74b17b1)
 
 -Profile Page
